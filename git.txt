@@ -1,6 +1,6 @@
 Hii, I am Payal...
 Here is my new repository name:SIH2025...
-The the commands in the git i used are :
+The commands in the git i used are :
 git init
 git add 
 git commit -m 'msg'
